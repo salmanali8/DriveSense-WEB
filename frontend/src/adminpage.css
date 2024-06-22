@@ -1,0 +1,27 @@
+/* adminpage.css */
+.auth-container {
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  background-color: #fff;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.card-title {
+  font-size: 1.5rem;
+}
+
+.auth-form {
+  max-width: 400px; /* Adjust the maximum width as needed */
+  margin: 0 auto; /* Center align the form */
+}
+
+.form-control {
+  height: 35px; /* Adjust the height as needed */
+  padding: 0.5rem 1rem; /* Adjust padding as needed */
+}
+
+.btn-primary {
+  height: 38px; /* Match the height of the input fields */
+  font-size: 1rem; /* Adjust the font size as needed */
+  width: 100%; /* Make the button full-width */
+}

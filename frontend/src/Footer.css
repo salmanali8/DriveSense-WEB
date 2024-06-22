@@ -1,0 +1,42 @@
+/* Footer.css */
+.footer {
+  background-color: black;
+  color: white;
+  width: 100%;
+  display: flex;
+  justify-content: space-around;
+  padding: 20px;
+  margin: 0; /* Remove all margins */
+}
+
+.footer-section {
+  text-align: center;
+}
+
+.footer-section h3 {
+  font-size: 1.2rem;
+  margin-bottom: 10px;
+}
+
+.orange {
+  color: orange; /* Apply orange color to the headings and icons */
+}
+
+.footer-section ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.footer-section ul li {
+  margin-bottom: 5px;
+}
+
+.icons {
+  display: flex;
+  justify-content: center;
+  margin-top: 10px; /* Adjust as needed */
+}
+
+.icons svg {
+  margin: 0 10px; /* Adjust icon spacing */
+}
